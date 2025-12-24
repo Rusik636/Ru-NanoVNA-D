@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2019-2023, Dmitry (DiSlord) dislordlive@gmail.com
  * Based on TAKAHASHI Tomohiro (TTRFTECH) edy555@gmail.com
+ * Russian translation by Rusik636 (https://github.com/Rusik636)
  * All rights reserved.
  *
  * This is free software; you can redistribute it and/or modify
@@ -613,7 +614,7 @@ void ui_touch_draw_test(void) {
 
 #ifdef QR_CODE_DRAW
 // 31x31 QR code image
-// https://github.com/DiSlord/NanoVNA-D
+// https://github.com/Rusik636/Ru-NanoVNA-D
 static const uint8_t qr_code_map[] = {
   0xff, 0xff, 0xff, 0xfe,
   0x80, 0xa2, 0x2e, 0x02,

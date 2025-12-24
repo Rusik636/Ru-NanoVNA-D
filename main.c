@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2019-2024, Dmitry (DiSlord) dislordlive@gmail.com
  * Based on TAKAHASHI Tomohiro (TTRFTECH) edy555@gmail.com
+ * Russian translation by Rusik636 (https://github.com/Rusik636)
  * All rights reserved.
  *
  * This is free software; you can redistribute it and/or modify
@@ -125,14 +126,16 @@ static uint16_t p_sweep = 0;
 float measured[2][SWEEP_POINTS_MAX][2];
 
 #undef VERSION
-#define VERSION "1.2.48"
+#define VERSION "1.2.48 - RU ver."
 
 // Version text, displayed in Config->Version menu, also send by info command
 const char *info_about[]={
   "Board: " BOARD_NAME,
   "2019-2024 Copyright @DiSlord (based on @edy555 source)",
+  "Russian translation by @Rusik636",
   "Licensed under GPL.",
-  "  https://github.com/DiSlord/NanoVNA-D",
+  "  https://github.com/Rusik636/Ru-NanoVNA-D",
+  "  Original: https://github.com/DiSlord/NanoVNA-D",
   "Donate support:",
 //  "  https://paypal.me/DiSlord",
   "  WebMoney: Z313822869119",

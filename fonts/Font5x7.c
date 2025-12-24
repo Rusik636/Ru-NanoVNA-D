@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2019-2020, Dmitry (DiSlord) dislordlive@gmail.com
+ * Russian translation by Rusik636 (https://github.com/Rusik636)
  * All rights reserved.
  *
  * This is free software; you can redistribute it and/or modify
